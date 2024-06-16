@@ -11,7 +11,7 @@
 ![Dashboard](https://github.com/VigneshwarRamalingam/Hospitality_Domain/assets/104707588/4ba720b1-b932-4ee9-9ba8-eb68f4262e84)
 
 ### Key Insights:
-* RevPAR is a byproduct of rate and occupany(RevPar is changing as Occupany is changing). but looking at the this date it is envident that this hotel does not the use any pricing strategy as the ADR is not fluctuating. (Recommanded to use dynamic pricing strategy)
+* RevPAR is a byproduct of rate and occupany(RevPar is changing as Occupany is changing). but looking at the this date it is envident that this hotel does not the use any pricing strategy as the ADR is not fluctuating. (Recommended to use dynamic pricing strategy)
 
 ![No_Fluctuation_in_ADR](https://github.com/VigneshwarRamalingam/Hospitality_Domain/assets/104707588/cd5f216a-dcd7-448f-9d5c-7da29f4c87cd)
 
