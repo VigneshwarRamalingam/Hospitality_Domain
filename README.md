@@ -9,3 +9,12 @@
    * It is the measure of the average paid for rooms sold in a given time period
   
 ![Dashboard](https://github.com/VigneshwarRamalingam/Hospitality_Domain/assets/104707588/4ba720b1-b932-4ee9-9ba8-eb68f4262e84)
+
+### Key Insights:
+* RevPAR is a byproduct of rate and occupany(RevPar is changing as Occupany is changing). but looking at the this date it is envident that this hotel does not the use any pricing strategy as the ADR is not fluctuating. (Recommanded to use dynamic pricing strategy)
+
+![No_Fluctuation_in_ADR](https://github.com/VigneshwarRamalingam/Hospitality_Domain/assets/104707588/cd5f216a-dcd7-448f-9d5c-7da29f4c87cd)
+
+* Hostel with less rating seem likely to be occupied, which means the occupany% is very less when the average rating is <= 3.
+  
+  ![Occupancy rate](https://github.com/VigneshwarRamalingam/Hospitality_Domain/assets/104707588/1e1331f0-25ad-4075-9474-9a9929409a38)
