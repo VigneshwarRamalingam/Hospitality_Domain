@@ -2,7 +2,7 @@
 
 ### This project utilizes Power BI Desktop and Excel to substantially enhance business growth through revenue optimization.
 
-#### Key Features
+### Key Features
 * RevPAR: RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
 * ADR:
    * It is the ratio of revenue to the total rooms booked/sold.
