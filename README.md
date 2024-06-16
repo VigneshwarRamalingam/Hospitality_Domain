@@ -15,6 +15,6 @@
 
 ![No_Fluctuation_in_ADR](https://github.com/VigneshwarRamalingam/Hospitality_Domain/assets/104707588/cd5f216a-dcd7-448f-9d5c-7da29f4c87cd)
 
-* Hostel with less rating seem likely to be occupied, which means the occupany% is very less when the average rating is <= 3.
+* A hostel with a lower rating is less likely to be occupied, meaning the occupancy rate is very low when the average rating is 3 or less.
   
   ![Occupancy rate](https://github.com/VigneshwarRamalingam/Hospitality_Domain/assets/104707588/1e1331f0-25ad-4075-9474-9a9929409a38)
