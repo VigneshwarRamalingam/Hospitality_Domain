@@ -18,3 +18,7 @@
 * A hostel with a lower rating is less likely to be occupied, meaning the occupancy rate is very low when the average rating is 3 or less.
   
   ![Occupancy rate](https://github.com/VigneshwarRamalingam/Hospitality_Domain/assets/104707588/1e1331f0-25ad-4075-9474-9a9929409a38)
+
+* Lower-rated hostels experience higher cancellation rates across platforms, often due to mismatched expectations and other issues, highlighting the Pareto principle's observation of significant impact from a minority of properties.
+
+  #### Note: In the hotel industry, 80% of the revenue typically comes from 20% of the top-performing hostels, while 80% of the complaints and issues often originate from 20% of the lowest-rated hostels, emphasizing the need to focus on both high-value properties and problematic ones for overall improvement.
